@@ -30,6 +30,14 @@
       "selectors": [
         "document"
       ],
+      "label": "Login Page",
+      "url": "/user/login",
+      "referenceUrl": "",
+      "hideSelectors": [],
+      "selectors": [
+        "document"
+      ],
+
       "readyEvent": null,
       "delay": 1500,
       "misMatchThreshold" : 0.1
